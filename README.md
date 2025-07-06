@@ -114,10 +114,10 @@ Frontend will run on [http://localhost:3001](http://localhost:3001) (or as confi
 ---
 
 ## 🤝 Collaborators
+- <img src="https://github.com/luci-fier.png" width="25" height="25" style="border-radius: 5;"> Sandesh Varma ([luci-fier](https://github.com/luci-fier))
+- <img src="https://github.com/bikrant07.png" width="25" height="25" style="border-radius: 5;"> Bikrant Pandit ([bikrant07](https://github.com/bikrant07))
+- <img src="https://github.com/Gungunkhaitan.png" width="25" height="25" style="border-radius: 5;"> Gungun Khaitan ([Gungunkhaitan](https://github.com/Gungunkhaitan))
 
-- [luci-fier](https://github.com/luci-fier)
-- [bikrant07](https://github.com/bikrant07)
-- [Gungunkhaitan](https://github.com/Gungunkhaitan)
 
 ---
 
